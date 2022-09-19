@@ -7,5 +7,5 @@ Controle de Fluxo
 
 ## - Estruturas condicionais: if-else; switch-case.
 * possibilita a escolha de um grupo de ações e comportamentos a serem executadas quando determinadas condições são ou não satisfeitas. Podem se dividir como Simples ou Composta.
-- Estruturas de repetição: for; while; do-while.
-- Estruturas de exceções: try-catch-finally; throw.
+## - Estruturas de repetição: for; while; do-while.
+## - Estruturas de exceções: try-catch-finally; throw.
